@@ -1,0 +1,5 @@
+- compréhension des demandes et des besoins dans le projet
+- apprentissage du language c++ grace au site W3School
+- installation de visual studio code et de QT creator
+- début du codage de la fenêtre windows
+- 
