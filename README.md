@@ -2,4 +2,4 @@
 - apprentissage du language c++ grace au site W3School
 - installation de visual studio code et de QT creator
 - début du codage de la fenêtre windows
-- 
+- création du diagrame de séquence
